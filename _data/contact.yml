@@ -1,0 +1,14 @@
+location:
+  address: 756 Bourke St, Docklands VIC 3008
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.78580073795!2d144.94769349999999!3d-37.818485900000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65dddaa268fa9%3A0xd8085b9105bb1abf!2sEspresso%20Dock.!5e0!3m2!1sen!2sau!4v1669775800876!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/espresso.dock/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:(+xx) xxxxxxxxx
